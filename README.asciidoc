@@ -1,0 +1,8 @@
+Git Scribe Manual
+=================
+
+This book documents the git-scribe tool and workflows.
+
+https://github.com/schacon/git-scribe
+
+
